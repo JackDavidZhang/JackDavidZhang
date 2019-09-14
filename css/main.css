@@ -1,0 +1,30 @@
+@font-face {
+	font-family:YRDZhuShi;
+	src: url('../fonts/杨任东竹石体-Bold.ttf');
+}
+
+@font-face {
+	font-family:LaiHu;
+	src: url('../fonts/濑户字体setofont.ttf');
+}
+
+.top div{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	z-index: 2;
+}
+
+.top img{
+	width: 49px;
+	height: 49px;
+}
+
+.top p{
+	font-family: LaiHu;
+	font-size: 18px;
+}
